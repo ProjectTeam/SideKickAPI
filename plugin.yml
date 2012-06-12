@@ -1,0 +1,9 @@
+name: SideKickAPI
+version: 1.0
+main: com.ProjectTeam.source.Main
+author: emericask8ur, Butkicker12, bergerkiller, fallensk8ur (ProjectTeam)
+description: SideKickAPI is a Developer tool, and will be later followed by the Snapshot beta builds and the next SideKick release.
+commands:
+  SideKickAPI:
+   description: Version, Description, Authors, and Name.
+   usage: /SideKickAPI
